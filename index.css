@@ -1,0 +1,21 @@
+.pics{
+    width: 100%;
+    margin-bottom: 20px;
+}
+body{
+    font-family: 'Varela Round', sans-serif;
+    background-color: rgb(240, 234, 211);
+}
+.pics2{
+    width: 100%;
+    margin-bottom: 20px;
+    height: 80%;
+}
+h1{
+    color: rgb(71, 187, 71);
+    font-size: 5em;
+}
+.slider{
+    width : 80%;
+    height : 50%
+}
